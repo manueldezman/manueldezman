@@ -7,7 +7,7 @@
 </p>
 
 ---
-I'm a Full stack engineer, technical writer in developers relations, bridging product and developpers through accessible web experiences, clear documentation and hands-on experience. 
+I'm a Full stack engineer, technical writer in developers relations, bridging product and developers through accessible web experiences, clear documentation and hands-on experience. 
 
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, videos, talks, or open source contributions.
 
