@@ -11,7 +11,7 @@ I'm a Full stack engineer, technical writer in developers relations, bridging pr
 
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, videos, talks, or open source contributions.
 
-## MY top blockchain documentations :
+## My top blockchain documentations :
 - [Building a simple prediction markets dApp with Injective EVM](https://x.com/0xDezman/status/2012206468515197130?s=20) <br/>
 - [How SEDA Revolutionizes Solana Perps Feeds: its Speed Outshine Traditional Oracles](https://x.com/0xDezman/status/1977466528674025543?s=20) <br/>
 - [Private Intelligence: Medical AI with @ArciumHQ  Secure Compute](https://x.com/0xDezman/status/1971693881252073983?s=20)<br/>
