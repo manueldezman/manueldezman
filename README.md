@@ -9,7 +9,7 @@
 ---
 I'm a Full stack engineer, technical writer in developers relations, bridging product and developers through accessible web experiences, clear documentation and hands-on experience. 
 
-My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, videos, talks, or open source contributions.
+My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, talks, or open source contributions, with plans in place for video contents soon.
 
 ## My top blockchain documentations :
 - [Building a simple prediction markets dApp with Injective EVM](https://x.com/0xDezman/status/2012206468515197130?s=20) <br/>
@@ -24,6 +24,7 @@ My philosophy is simple: share what I know, stay curious, and create space for o
 - Ethers.js
 - Hardhat
 - Foundry
+- Rust
 
 ### Languages and Frameworks
 
