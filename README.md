@@ -11,6 +11,10 @@ I'm a Full stack engineer, technical writer in developers relations, bridging pr
 
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, videos, talks, or open source contributions.
 
+## MY top blockchain documentations :
+[Building a simple prediction markets dApp with Injective EVM](https://x.com/0xDezman/status/2012206468515197130?s=20)
+[How SEDA Revolutionizes Solana Perps Feeds: its Speed Outshine Traditional Oracles](https://x.com/0xDezman/status/1977466528674025543?s=20)
+[Private Intelligence: Medical AI with @ArciumHQ  Secure Compute](https://x.com/0xDezman/status/1971693881252073983?s=20)
 
 ## tools & tech i'm excited and passionate about: 
 
@@ -42,6 +46,7 @@ My philosophy is simple: share what I know, stay curious, and create space for o
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manueldezman&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 Outside of tech, I’m a content creator who enjoys yapping about my Defi interaction, talking football and personal finance.
 
