@@ -24,7 +24,7 @@ My philosophy is simple: share what I know, stay curious, and create space for o
 - Ethers.js
 - Hardhat
 - Foundry
-- Rust
+- Rust (beginner)
 
 ### Languages and Frameworks
 
