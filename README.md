@@ -32,6 +32,7 @@ My philosophy is simple: share what I know, stay curious, and create space for o
 - Next.js
 - Typescript
 - TailwindCSS
+- Node.js
 
 ### Tech
  - AI
