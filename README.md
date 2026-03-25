@@ -12,6 +12,7 @@ I'm a Front-End engineer, technical writer in developers relations, bridging pro
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, talks, or open source contributions, with plans in place for video contents soon.
 
 ## My top  documentations :
+- [How to fix CORS errors in your frontend app using a Proxy Server](https://0xdezman.hashnode.dev/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server) <br/>
 - [How to Fix Form Validation UX: Switching from :invalid to :user-invalid](https://0xdezman.hashnode.dev/how-to-fix-form-validation-ux-switching-from-invalid-to-user-invalid) <br/>
 - [Building a simple prediction markets dApp with Injective EVM](https://x.com/0xDezman/status/2012206468515197130?s=20) <br/>
 - [How SEDA Revolutionizes Solana Perps Feeds: its Speed Outshine Traditional Oracles](https://x.com/0xDezman/status/1977466528674025543?s=20) <br/>
