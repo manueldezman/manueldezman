@@ -3,43 +3,21 @@
 <p align="center">
   <a href="https://twitter.com/0xDezman">X</a> •
   <a href="https://linkedin.com/in/abdulganiyadeleke">LinkedIn</a> •
-  <a href="https://www.youtube.com/@0xdezman">YouTube</a>
+  <a href="https://www.youtube.com/@0xdezman">YouTube</a> •
+  <a href="https://www.0xdezman.cv/">porfolio</a>
 </p>
 
 ---
-I'm a Front-End engineer, technical writer in developers relations, bridging product and developers through accessible web experiences, clear documentation and hands-on experience. 
+I'm a developer relations engineer , bridging product and developers through accessible web experiences, clear documentation and hands-on experience. 
 
-My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, talks, or open source contributions, with plans in place for video contents soon.
+My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, talks, or open source contributions.
 
 ## Checkout My recent Articles :
-- [How to Choose an Architecture for Portable AI Memory](https://medium.com/@adelekeabdulganiy/how-to-choose-an-architecture-for-portable-ai-memory-e573911fde58) <br/>
+- [How to make technical documentation AI-ready: prevent information loss in Markdown](https://hackmamba.io/technical-documentation/how-to-make-technical-documentation-ai-ready-with-markdown) <br/>
 - [Is SearchApi a Good SerpApi Alternative?](https://hashnode.com/edit/cmrnljq9l00010aklas1pd0ij) <br/>
-- [How to fix CORS errors in your frontend app using a Proxy Server](https://0xdezman.hashnode.dev/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server) <br/>
 - [How to Fix Form Validation UX: Switching from :invalid to :user-invalid](https://0xdezman.hashnode.dev/how-to-fix-form-validation-ux-switching-from-invalid-to-user-invalid) <br/>
 - [Why the Revealing Module Pattern property won't update (and how to fix it)](https://0xdezman.hashnode.dev/why-the-revealing-module-pattern-property-won-t-update-and-how-to-fix-it) <br/>
 
-
-## tools & tech i'm excited and passionate about: 
-
-### Blockchain Development (EVM)
-
-- Solidity
-- Ethers.js
-- Hardhat
-- Foundry
-- Rust (beginner)
-
-### Languages and Frameworks
-
-- React
-- Typescript
-- TailwindCSS
-
-### Tech
- - AI
- - DeFi
- - Privacy
- - Account Abstraction
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -56,4 +34,3 @@ Outside of tech, I’m a content creator who enjoys yapping about my Defi intera
 ---
 
 - 📫 Reach me on [X](https://twitter.com/0xDezman) or [email](mailto:adelekeabdulganiy@gmail.com)  
-- 😄 Pronouns: He/Him
