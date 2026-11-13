@@ -8,15 +8,16 @@
 </p>
 
 ---
-I'm a developer relations engineer , bridging product and developers through accessible web experiences, clear documentation and hands-on experience. 
+I'm a developer experience engineer , bridging product and developers through accessible web experiences, clear & Agent ready documentation.
 
 My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy breaking down complex technical concepts through blog posts, talks, or open source contributions.
 
-## Checkout My recent Articles :
+## Checkout My recent writings :
+- [TUI vs CLI: Is There Any Difference?](https://0xdezman.cv/blog/tui-vs-cli) <br/>
 - [How to make technical documentation AI-ready: prevent information loss in Markdown](https://hackmamba.io/technical-documentation/how-to-make-technical-documentation-ai-ready-with-markdown) <br/>
-- [Is SearchApi a Good SerpApi Alternative?](https://hashnode.com/edit/cmrnljq9l00010aklas1pd0ij) <br/>
+- [How to Never Run Out of Ideas](https://0xdezman.substack.com/p/how-to-never-run-out-of-ideas) <br/>
 - [How to Fix Form Validation UX: Switching from :invalid to :user-invalid](https://0xdezman.hashnode.dev/how-to-fix-form-validation-ux-switching-from-invalid-to-user-invalid) <br/>
-- [Why the Revealing Module Pattern property won't update (and how to fix it)](https://0xdezman.hashnode.dev/why-the-revealing-module-pattern-property-won-t-update-and-how-to-fix-it) <br/>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
